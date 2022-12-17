@@ -6,9 +6,13 @@
 <h3 align="center">Graphic designer & frontend developer from Russia, Saint Petersburg</h3>
 <h5 align="left">
   Tools:
+  <br>
     Corel DRAW, Adobe Photoshop, Adobe Illustrator, Autodesk 3DS Max, Autodesk Autocad, Figma, Bitrix, Jira.
+  <br>
   Languages, frameworks, libraries:
+  <br>
     JavaScript, HTML, CSS, React, TypeScript and others
+  <br>
 </h5>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
