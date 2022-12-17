@@ -1,5 +1,5 @@
 
-<center><img src="https://github.com/cra3e/cra3e/blob/main/assets/header.jpg" height="150"/></center>
+<center><img src="https://github.com/cra3e/cra3e/blob/main/assets/header.jpg"/></center>
 
 <h1 align="center">Hi there, I'm Eugene Christiani</h1>
 
