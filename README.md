@@ -1,5 +1,9 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Eugene+Christiani)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
 <!--
 **cra3e/cra3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
