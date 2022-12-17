@@ -5,11 +5,11 @@
 
 <h3 align="center">Graphic designer & frontend developer from Russia, Saint Petersburg</h3>
 <h5 align="left">
-  Tools:
+  <b>Tools:</b>
   <br>
     Corel DRAW, Adobe Photoshop, Adobe Illustrator, Autodesk 3DS Max, Autodesk Autocad, Figma, Bitrix, Jira.
   <br>
-  Languages, frameworks, libraries:
+  <b>Languages, frameworks, libraries:</b>
   <br>
     JavaScript, HTML, CSS, React, TypeScript and others
   <br>
